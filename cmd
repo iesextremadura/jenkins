@@ -1,1 +1,1 @@
-echo "Hola"
+/home/castuera/jenkinsbash list-jobs
