@@ -3,7 +3,31 @@
 #/home/castuera/jenkinsbash enable-job Backups-Pilar
 #/home/castuera/jenkinsbash disable-job [NAME]
 #/home/castuera/jenkinsbash help
-/home/castuera/jenkinsbash build AA-volver-de-vacaciones
+#/home/castuera/jenkinsbash build AA-volver-de-vacaciones
 #/home/castuera/jenkinsbash build	AA-empezar-las-vacaciones
+/home/castuera/jenkinsbash disable-job Despertar-SIATICs
+/home/castuera/jenkinsbash disable-job Despertar-Sala-Profesores
+/home/castuera/jenkinsbash disable-job Despierta-Infolab
+/home/castuera/jenkinsbash disable-job Siatic-A02
+/home/castuera/jenkinsbash disable-job Siatic-A06
+/home/castuera/jenkinsbash disable-job Siatic-A07
+/home/castuera/jenkinsbash disable-job Siatic-A19-Infolab
+/home/castuera/jenkinsbash disable-job Siatic-A31
+/home/castuera/jenkinsbash disable-job Siatic-A40-Automocion
+/home/castuera/jenkinsbash disable-job Siatic-A45
+/home/castuera/jenkinsbash disable-job Siatic-A46
+/home/castuera/jenkinsbash disable-job Siatic-A50-A32-FPBasica-automocion
+/home/castuera/jenkinsbash disable-job Siatic-A51
+/home/castuera/jenkinsbash disable-job AP116-A49-1FPBAdministracion
+/home/castuera/jenkinsbash disable-job AP117-SalaProfesores
+/home/castuera/jenkinsbash disable-job AP118-DptoCarroceria
+/home/castuera/jenkinsbash disable-job AP119-A04-2GA
+/home/castuera/jenkinsbash disable-job AP124-A08-1AF
+/home/castuera/jenkinsbash disable-job AP125-A05-2AF
+/home/castuera/jenkinsbash disable-job AP126-A31-1PANADERIA
+/home/castuera/jenkinsbash disable-job Intranet-172_19_120_74
+/home/castuera/jenkinsbash disable-job Infolab-Pilar-Monitoring
+
+
 exit 1 # Si quieres recibir notificacion de la ejecucion
 # exit 0 # En caso de que NO quieras recibir notificacion de la ejecucion. Jenkins avisa de build fallidas
