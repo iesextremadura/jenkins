@@ -4,6 +4,6 @@
 #/home/castuera/jenkinsbash disable-job [NAME]
 #/home/castuera/jenkinsbash help
 /home/castuera/jenkinsbash build AA-volver-de-vacaciones
-#http://servidorcasal:8080/job/A%20empezar%20las%20vacaciones/build?token=vacaciones
+#/home/castuera/jenkinsbash build	AA-empezar-las-vacaciones
 exit 1 # Si quieres recibir notificacion de la ejecucion
 # exit 0 # En caso de que NO quieras recibir notificacion de la ejecucion. Jenkins avisa de build fallidas
