@@ -26,7 +26,7 @@
 /home/castuera/jenkinsbash enable-job AP125-A05-2AF
 /home/castuera/jenkinsbash disable-job AP126-A31-1PANADERIA
 /home/castuera/jenkinsbash disable-job Intranet-172_19_120_74
-/home/castuera/jenkinsbash enable-job Infolab-Pilar-Monitoring
+/home/castuera/jenkinsbash disable-job Infolab-Pilar-Monitoring
 
 
 exit 1 # Si quieres recibir notificacion de la ejecucion
