@@ -18,7 +18,7 @@
 /home/castuera/jenkinsbash enable-job Siatic-A46
 /home/castuera/jenkinsbash enable-job Siatic-A50-A32-FPBasica-automocion
 /home/castuera/jenkinsbash enable-job Siatic-A51
-/home/castuera/jenkinsbash enable-job AP116-A49-1FPBAdministracion
+/home/castuera/jenkinsbash disable-job AP116-A49-1FPBAdministracion
 /home/castuera/jenkinsbash enable-job AP117-SalaProfesores
 /home/castuera/jenkinsbash enable-job AP118-DptoCarroceria
 /home/castuera/jenkinsbash enable-job AP119-A04-2GA
