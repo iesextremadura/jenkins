@@ -5,8 +5,8 @@
 #/home/castuera/jenkinsbash help
 #/home/castuera/jenkinsbash build AA-volver-de-vacaciones
 #/home/castuera/jenkinsbash build	AA-empezar-las-vacaciones
-/home/castuera/jenkinsbash enable-job Despertar-SIATICs
-/home/castuera/jenkinsbash enable-job Despertar-Sala-Profesores
+/home/castuera/jenkinsbash disable-job Despertar-SIATICs
+/home/castuera/jenkinsbash disable-job Despertar-Sala-Profesores
 #/home/castuera/jenkinsbash enable-job Despierta-Infolab
 /home/castuera/jenkinsbash disable-job Siatic-A02
 /home/castuera/jenkinsbash disable-job Siatic-A06
